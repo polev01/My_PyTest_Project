@@ -4,4 +4,4 @@ def test_Main():
     assert AAA.x == 1
 
 print("test")
-
+print("test2")
